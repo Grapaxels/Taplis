@@ -1,0 +1,35 @@
+*{
+    overflow-x: hidden;
+}
+.slider-img{
+    width: 100%;
+}
+
+
+
+
+.trending{
+    overflow: hidden;
+    text-align: center;
+    background-color: rgb(92, 50, 50);
+}
+.trending h1{
+    overflow: hidden;
+    font-size: 400%;
+    color: #E1BFB5;
+}
+.tre{
+    background-color: #E1BFB5;
+}
+.tre-img{
+    margin: 1%;
+    width: 31%;
+}
+
+.featured{
+    text-align: center;
+}
+.fet{
+    font-size: 400%;
+
+}
